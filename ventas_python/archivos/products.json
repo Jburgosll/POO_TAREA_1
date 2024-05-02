@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Coca Cola",
+        "precio": 2.5,
+        "stock": 2000
+    },
+    {
+        "id": 2,
+        "descripcion": "Mortadela",
+        "precio": 2.5,
+        "stock": 700
+    },
+    {
+        "id": 3,
+        "descripcion": "Jamon",
+        "precio": 2.2,
+        "stock": "10"
+    }
+]
